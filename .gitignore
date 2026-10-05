@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# JetBrains IDEs (IntelliJ, WebStorm)
+.idea/
+*.iml
+
+# Editors / misc
+.vscode/
+*.swp
