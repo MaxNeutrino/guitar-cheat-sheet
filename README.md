@@ -114,4 +114,6 @@ The reference photo is too small to reliably transcribe individual fingering num
 2. In the repository, select **Settings → Pages → Deploy from a branch**.
 3. Choose the branch and **/ (root)** folder, then save.
 
+---
+
 All asset URLs are relative, including when hosted under a repository path. Nothing has been published as part of this initial build.
